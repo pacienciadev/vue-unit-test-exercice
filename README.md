@@ -26,8 +26,8 @@ yarn build
 
 ### Run your unit tests
 
-To test this, you will need to run the [json-server](https://www.npmjs.com/package/json-server) in your terminal.
-Go to project folder and run:
+To test this, you will need to run the [json-server](https://www.npmjs.com/package/json-server).
+In your project folder run:
 
 ```
 
